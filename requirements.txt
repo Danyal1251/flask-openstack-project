@@ -1,0 +1,11 @@
+flask
+flask-bootstrap
+tensorflow
+numpy
+pandas
+scikit-learn
+kaggle
+opencv-python
+matplotlib
+requests
+gunicorn
